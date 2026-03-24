@@ -1,0 +1,374 @@
+Calling Date,UC ID,BDA Name,Contact Number,Call Status,Referral 1,Unnamed: 6,Unnamed: 7,Unnamed: 8,Referral 2,Unnamed: 10,Unnamed: 11,Unnamed: 12,Referral 3,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 0,Referral 4,Unnamed: 18,Unnamed: 19,Unnamed: 20,Referral 5,Unnamed: 22,Unnamed: 23,Unnamed: 24,Referral 6,Unnamed: 26,Unnamed: 27,Unnamed: 28,Referral 7,Unnamed: 30,Unnamed: 31,Unnamed: 32,total_referrals
+,,,,,Name,Contact Number,Email,Comments,Name,Contact Number,Email,Comments,Name,Contact Number,Email,Comments,,,,,,,,,,,,,,,,,,0.0
+,UCT7618,Avinash Jatwar,8889822228,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT7636,Kavita Poona,8865897697,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT7888,Suryansh Singh,6200195762,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT7954,s umraz,7975030519,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT7969,Khairul Islam,9365776146,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8003,Muskan Thakur,9301826221,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8068,Swapna Khavade,9886579954,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8272,SHOBHA C HUGAR,7259969680,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8451,SYED ZULKHARNAIN,8217468967,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8480,Aditya Agrawal,7379828133,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8484,KAIF KHAN FAIROZ KHAN,9344911929,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8559,RUHIE H,9538023028,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCRM042,SHA SALMAN,8867661046,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8667,Ankur Sarkar,9547592718,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8668,Sindhu M,6364067654,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8691,Sourav Bhimrajka,6361490380,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8707,Deepak,8431679519,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8724,Aditya Raj Sharma,7987099253,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8757,Sonu Kumar,9798109087,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCRM082,Nirmala Kumari Behera,7735099528,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8956,Najma Banu,8618678249,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8959,Omer Bin Azeem,9523217340,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9000,Ghouse Pasha,7204556802,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9004,Vanamala R,8660202532,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9024,NITYA NAND,7369054416,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9035,Pranav Kumar Pathak,6390111311,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9064,Avinaba maji,9083677557,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9084,Md Sakir Ahmed,7896369546,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9093,Namrita Goyal,9079120325,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9129,Rajat Lalotra,8899906254,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCRM126,Ajay Harkade,7022116276,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9324,Shabuddin Ansari,9523129004,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9326,Priyanshu Rai,9305586472,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9361,Praveen Pandey,9972483964,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCRM213,Hemanth Kumar D,7847928104,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9446,Shaik Rahul,9959747545,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9474,Sakshi Kalla,8905002761,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCRM251,Lohith N,9945526512,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9514,Aliya Nusrat,8217838109,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9531,Vikas Patil,6260642272,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9557,Ranveer Singh,9519966231,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9588,RAJAT KUMAR,9572131656,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9612,Suhas S,6364511512,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9622,Suraj Ram Kewat,8967017772,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9635,ABHINAV TRIPHATHI,9452530425,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9641,Baba fakhruddin s,9353637580,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9653,E. BHARATH GOUD,7829855582,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9681,ASHIK KUMAR,7975080105,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCRM281,Damodar Singh,9238646007,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9695,Sanskriti Sharma,9564764188,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9697,Naveen S,6361296765,Connected,shreyas reddy,8088433189,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9700,Sharayu Munjekar,7083903452,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9712,Syed Sultan,9148887267,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9823,Chohin Gowda Gopalappa,9629288949,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9840,Rahul Gope,7870714347,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9955,Prerna Swami,8905779075,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9956,Gunjan Singh,8003965919,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10059,Siddharth Tripathi,8115241820,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10095,Gurulingappa,9945966334,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10103,Shobhit,7007683680,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCRM386,Sarthak Kumar,9065941453,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10114,MD SAMEER,8310972141,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10138,Mir Ebaadul Haq,8197866811,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10147,Ritesh Singh,7905227718,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10161,Shabid Shabir Wani,7006171052,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCRM389,Ankan Dan,8900780011,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10198,Souvik pal,7699455466,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10225,Md Ghouse,7892391029,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10271,S.Afreen,7019742678,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10279,Shubhra Gupta,8462928154,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10280,Aryaman Pandey,9307284283,Connected,sakshi hatti,9110841457,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCRM404,P Vasanthkumar Reddy,7483506301,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10380,MOHAMMED AYMAN SIDDIQ AGHA,8553239973,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10383,Avula Divya,9392064586,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCRM416,Suman Kumar Mandal,8340560713,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCRM417,Sahil Chalwa,7760883213,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10413,Koushik Nishan,7892469576,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10417,Jassandeep Singh,9781785478,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10432,Gaurav Beswal,7877670549,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10502,Channabasava,8431611995,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10531,Sreeja Das,8777672450,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10561,CHARAN ASHOK,7619231303,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10617,Jatin Singh,7307731458,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10677,Lohith K S,8867454327,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10678,Shaik Imran,7995170630,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10716,Swagatika Swain,9337043079,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10717,Omar Abdulla,9954774070,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10719,Varsha kumari,9334640280,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10720,Vaibhav Vinay Pai,9731370477,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10737,Rohan Chhibber,9981805634,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10740,Ramshiya Zoha Fathima,7676728089,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10753,Akash Kapte,8880143460,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10757,Mantu Gouda,7609911503,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10758,Suryansh Jeet Srivastava,9452710497,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10795,Dibyavani Sinha,8102517761,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10797,Aishwarya M,9482405293,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10834,Prerna Srivastava,9335800893,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10835,Fareen Abdul khader sayed,6360045725,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10885,TAPAN DAS,9348422196,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10896,Sundaram Sonkar,9795337375,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10936,Vivek Raj Sinha,8825346536,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10955,Vishal Kumar,9572280030,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCRM485,Srinivasa R,6360518236,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10997,Smith Ghosh,9304134552,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11012,K AMBIKA,91 63603 37198,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11030,Bhuvanesh C,6360335160,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11053,Ujjwal Srivastava,8953894217,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11078,Mehul Dixit,9628857864,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCRM499,Manjunath,9008145851,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCRM501,Abhishek Channavar,9483916879,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCRM502,V Thejesh,9894618593,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCRM503,Hemant Kumar,9535480415,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11114,Gulnaz Begum,9696025431,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11194,Zeeshan Ahmed,75430 33025,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11196,Vipransh Narayan Choudhary,88770 99821,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11209,Udit Joshi,8233070513,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11210,Simran Kumar,8917299105,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11214,Aryan Dev Krishnan,8081960026,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11257,Hasnain Khan,7899593656,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11306,Rahul,7975062822,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11307,Anuroop T G,8073015284,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCRM521,Mohit Chowdhury,7980127524,Connected,Sumitra Nayak,6371663399,Email: sumitranayak935@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11369,Sreeya Singh,6201441712,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11377,Sinchana J Soni,9535198307,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11382,Umar Abdulla Khan,9513184958,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11383,Bishal Kumar Patra,8121060644,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11413,Anantaa Paul,9046681699,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11415,Aaliya Hermine,8310028930,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11427,Subhankar Dey,9134347738,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11461,Sakshi sinha,6299504311,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11575,Richa Kumari,7903417605,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11615,Saleem Elahi,9113230910,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,,,,,Name,Contact Number,Email,Comments,Name,Contact Number,Email,Comments,Name,Contact Number,Email,Comments,,Name,Contact Number,Email,Comments,Name,Contact Number,Email,Comments,Name,Contact Number,Email,Comments,Name,Contact Number,Email,Comments,0.0
+,UCT8067,Ankita Pradhan,8250893618,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8199,Gargee Kakati,8787786945,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Prabhakar M,7899270030,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8372,Estar Jenish Bhul,9108334347,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8379,Raghu Kumar S R,6360904363,Connected,CHITHRA BAI,7349363476,chithrach2002@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8417,Mohammed Musaib,9731371312,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8432,Syed Mohammed Muthiulla,8123168678,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8443,G Syed Shawaz,9739395245,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8460,Sha Faizan,9900118741,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8492,Amisha Roy,7431864175,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8524,Bhakti Janmejay Pawar,9529996522,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8525,Vivek Singh,8923988035,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8540,Pramonidi M N,8970072449‬,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8585,Asish Satapathy,9556444589,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8590,Palthya Vittal,9014048546,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8610,Palthya Lalu Prasad,9391304014,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8650,Bhanu H N,9741399609,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8651,Anitha,8310812241,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8663,Punith R,8618240629,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8706,Sairah Khan,UCT8317,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8738,Riju Kumar,7079330559,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8746,Nawaz Khan,8660818915,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8796,Mohammed Saifuddin,8050056694,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8797,Zahid Ali Khan,8904594017,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8848,Masoom Kumari,6287888588,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT8926,Rahul Kumar,7004666128,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9052,Charan S,9535109461,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9085,Shilpa Kumari,89271 42125,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9126,Mohammed Shariff,8310749465,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9127,Mohammed Tauheed Raza,8861270020,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9168,Beauty Kumari,8294527543,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9197,ShashiKumar JS,8105864409,Connected,Sushil purty,7996712140,ranioutry1980@gmail.com,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9225,Sneha Dasaraddi,‪9449062409,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9393,S Mohammad Faizan,7799176231,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9437,SAKSHI,6377558479,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9459,Anushka Agrawal,7005351038,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9491,Basavashree,7411169782,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9552,Prajwal C,8050013924,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9601,Chandana Dey,8274995631,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9659,Anwar Sameer Basha,7019521308,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9666,Nishant,9513355611,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9725,Aditya Kar,9437219187,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9759,Harsh Raj,8494829875,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9762,Shivani Vinay Bellad,7624988663,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9766,Sathvik C Shetty,7026688326,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9767,Yusuf Ali,9986304701,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9778,Macharla Sai Vaishnavi,9515858065,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9793,Shaon Chouhan,8167377483,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9794,Rakesh Kumar Ratha,7008258181,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9795,Kumari Simran Devi,7208243302,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9796,Tushar Sachan,8739033311,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9806,Sunam Ghadei,8114899968,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9832,Polur Victor,6305404593,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9834,Saumya Shrimi,8969455289,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9853,Juli Kumari,7970479922,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9894,Shaik wahid,7619101378,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9900,Munagoti Pavan Kumar,8106224286,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9958,Rasmita Lakai,8811078096,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9961,Mohammad Ansar Attar,8088923168,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT9973,Komal Shivraj,7338181246,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10010,Dhame Neha Shashikant,7499355012,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10018,SAQLAIN,9606756990,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10024,Nausheen Siddiqa,7259992528,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10030,Kadambari,6363391080,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10050,Harsha Anand Kutarmare,9850956747,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10054,Mahammad Harish Abdulhai Vhora,8140706599,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10200,Sonam Afreeda,9864574364,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10220,Aditya Ranjan,6284173552,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10221,Ajay Waghmare,7350267614,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10258,Rishav Jaswal,8629057302,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10260,Sanjana Kumari,7992486201,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10263,Bhupendra Kumar,7462875718,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10276,Monalisa Pattanayak,9556920109,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10285,Sumukh Pramod Sonkusare,9833404974,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10304,Prasad Kumar R,9916702568,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10309,Mohammad Shahid,7899277196,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10311,Mohammed Zahid Pasha,9986902580,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10319,Aliya Tabassum,9632273070,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10328,Kannu Priya,8210169957,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10342,Danish Khan,7996199563,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10343,Syed Tayeeb,7975777597,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10344,Manasranjan Barik,7894522317,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10346,Syed Musab Kamran,7975302837,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10389,Danush T V,9945378332,Connected,ishani ,8093296651,,,Dhanushree,8050269129,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10398,P Jagan Rao,9123020275,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10399,Syed Khaleel,9113957784,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10416,Usma N,8123548981,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10420,Mahesh,7022493130,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10423,Triveni Bai Eslavath,9108855113,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10441,Arjina Begum,8974641193,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10443,Arzina Khatun,6009520825,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10444,MD. Hasanur Rohman,9365494350,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10445,Srinivas,9611994924,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10456,Sahil Kumar,6203036780,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10459,Abrar Khan,8892852524,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10467,Sital Bohra,7618713157,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10478,Om Aditya Mohanty,9348598368,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10498,Subhash Chetry,7399687818,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10499,Rabiul Sk,9635929126,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10506,Tahera Bi,9739414305,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10512,N S Dheeraj,8123723699,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10519,Akash,9886586147,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10526,Tania Mondal,8927967435,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10527,Raju sk,9387391871,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10528,Jogi Thrivikram,8096726320,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10533,Hariom Yadav,9554091028,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10535,Karina Ganta,9692418965,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10536,Mutaib Agsar,6005015581,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10562,Prabhakara Reddy,9071958434,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10568,Chandrakanta Kumari,7400637626,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10569,Uma Saha,8135058572,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10577,Umesh Kumar,9808225482,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10580,Sudarshan H S,9632597697,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10592,Kaidul Islam Laskar,7975657340,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10606,Kailash C,9113002029,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10608,Suraj Singh Rajput,7999971258,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10610,Dilshad,7073956343,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10616,Shambhavi Pandey,6387768887,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10623,Ryyan Ahmed,9611676374,Connected,Rabindra ,7795752141,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10629,Savitri Garwad,9945378332,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10630,Mohammed fouzan,7676837892,Connected,KHADEERULLA ,7676794018,,,Firdosh,9164568982,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10636,DEEPANSH RANA,8755857792,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10643,SHRIJANA KUMARI KUSHWAHA,7022840989,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10656,Syed Faiz,7204654416,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10660,Mohammed Nawaz,6366347478,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10662,Syed Mahboob,9067577095,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10667,Nagaraju K S,6366028145,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10684,Shahida Sarwar,9622730907,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10701,Shek Amreen,8951604686,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10721,Dhruv Tiwari,8871906097,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10723,Priyabrata Pradhan,8328953547,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10724,Satyam Mishra,7000722659,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10726,KABITA BEHERA,7328808341,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10728,Somya Rahi,7783854444,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10729,Lokanath Rout,7735759064,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10730,Anugula Vinay,7981974277,Connected,gireesh,9390378835,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10731,Priyanshu Bhatnagar,7354352931,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10732,Abhishek Kumar Singh,9096655154,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10746,Manjula,7975212362,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10773,Sagar Kunwar,6353878471,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10784,Sanjana Kumari Singh,8660623814,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10785,S Sandeep Kumar,8884229059,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10786,Khirojini Panda,9040760966,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10799,Shubhraneel Gupta,7903625853,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10824,Harijana Nagaraju,9900848014,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10825,Venkatesh C,9620400301,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10829,Abhishek Kumar Shing,9113892657,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10839,Bhim Ram,9901353795,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10840,Kundan,7899112947,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10852,Surendra Kumar,7624909302,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10865,Nisha H R,9113996686,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10879,GOPALA B,87469 17673,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10894,Pooja S,7204658424,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10895,Minoti Das,7002499907,Connected,BIPLOB,6362796970,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10916,PATHLAVATH OMKAR,9963431083,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10958,Divya Sahani,76765 49742,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT10986,Roshani,8641070109,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11002,Chitra Sivaiah,9573203712,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11003,Mohammed Gouse Badagi,9742180848,Connected,syed Rehan ,8123188821,,,Mohan ,9632682094,,,Pradeep N,7795935601,P2097541@gmail.com,,,Prabhu ,8618118322,prabhuvjvj@gmail.com,,BABA REHAN ,9538741067,Rehan Shaikh,,ARFAT,7483262373,mrarfat74@gmail.com,,Denis ,8861788442,,,0.0
+,UCT11003,Mohammed Gouse Badagi,9742180848,Connected,SHANKAR ,9902380731,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11033,Manish Kumar Gupta,9148651989,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11067,Aditi Kumari,9835375301,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11080,Akhila Bai H,8073249645,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11082,Mohanakumara G P,9743914880,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11084,SANDEEP S,9019949626,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11085,Kavitha,9886570507,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11093,Umadevi,8884582099,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11123,L VINEET,6302817960,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11195,Pranav Goenka,8602827360,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11222,Kumar Harsh,8102374331,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11223,Akash Pandey,7392080821,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11225,arushi kesharwani,7049004000,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11226,Neha A,9148992982,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11343,Jalaluddin,8884355462,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11344,M Sai Gagan,8073563391,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11345,Rajendra T,8105205401,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11348,Shaik Suhail Ahmed,9886021097,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11349,Salma M,9886610889,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11350,Nikita Sharma,7451991002,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11353,Sujeet Kumar Mahakud,7353200201‬,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11363,Md Zeeshan,6364320013,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11364,Avneesh Ashish Shrivastav,9407976069,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11365,Shiv Nath Jha,7995937141,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11366,Abubakar,8722793213,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11370,Sachin Lamani,7483169223,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11381,TILAK Y R,8792434124,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11412,Sumita Mondal,6290828881,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11458,Riya Dutta,6901470814,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11464,Biswajyoti Behera,9583937300,Connected, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11469,Mostafa Ahmed Barbhuiya,6900373406,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11475,Mohammed Jawad,7483043526,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11476,Mohammed Atiq,7892298310,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11478,Meena Sharma,9682172502,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11479,Mansoor Ahmed Hargol,7899101519,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11481,Alok Jena,9078741713,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11482,Sarita Shahi,8091381453,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11485,Nandeesha N,7760349025,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11487,Manikanta G,8296163304,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11488,Dhanush M,9742101637,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11489,K sharath Kumar,7022442722,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11500,Upendra Subhash Gudgunte,8722282723,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11527,Renu Rai,9632071911,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11529,Naveen B,7349747674,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11551,Swati Oraon,7250411687,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11555,SURAJ KUMAR,7090438021,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11568,Ganesh Kumar,8700529124,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11594,Aarti Kohli,9877767084,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11595,Parna Das,9395004171,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11596,Rika Saika,6003349780,Connected,pinki ,9635818738,,,payal ,8453191771,,,24/02/2026,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11597,Prince Kumar Keshri,9608058184,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11598,Subham Singh,9330080944,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11600,Prerana B,7411331191,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11601,P S Ajay,8618956339,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11602,Rishabh Paharele,9752968968,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11616,Nayeem Farooq,9103391161,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11617,H Y Dhanyashree,9731597140,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11618,Subramani N,8050661605,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11619,B Faizan Khan,7569838273,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11620,Dharshan Nayaka,9611587660,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11627,Raj Kumar Pandey,9170875576,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11628,Sruthi Roy,7975288610,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11651,Suresh Lamani,8105612574,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11655,Ruhit kanoo,6900534908,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11658,Anjana das,6009956279,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11663,Bheemaray H,8951226191,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11664,N Syed Sadath,7619207952,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11668,Sahana Rajendra Gharabude,9611131666,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11670,Sameer khan,7996832465,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11672,Shejal,8277929320,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11697,PuneethKumar V,9731427474,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11711,Safikul Tarafder,7407636740,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11713,Alok Kumar,9523027889,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11720,Kothalla Raghunath Reddy,8618331934,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11722,Mohd Rehan,9535129094,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11727,Narendra N,9148320313,DNP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11737,Pooja Kumari,7026123912,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
+,UCT11750,SITA TAMANG,7676405942,Connected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.0
